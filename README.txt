@@ -1,5 +1,5 @@
 
-A multithreaded client-server puzzle game (10/07/2018 - present)
+A multithreaded puzzle game (10/07/2018 - present)
 
 Create a puzzle game with multiple puzzles:
  1. a number guess
@@ -7,28 +7,7 @@ Create a puzzle game with multiple puzzles:
  3. ...(still working on it)
  
 ************ Display **************
->> g++ server.cpp -lpthread -o Server -w
->> ./Server 2550
-Connection successful
-The mystery number is 6808
-Here is your name: erica
-Receive your guess: 6808
-The random string a is rfkqyuqfjkxyqvn
-The random string b is rtysfrzrmzlygfv
-false
-false
-Connection successful
-The mystery number is 1523
-Here is your name: erica
-Receive your guess: 1523
-The random string a is ulqfpdbhlqdqrrc
-The random string b is rwdnxeuoqqeklai
-false
-true
-
-**********************
-client: 
->> ./Client 127.0.0.1 2550
+>>>client: 
 Welcome to a Puzzle Game!
 This game will have multiple puzzles for you!
 Let's start!!
