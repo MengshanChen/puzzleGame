@@ -1,10 +1,9 @@
 
-A multithreaded puzzle game (10/07/2018 - present)
+A multithreaded puzzle game (10/07/2018)
 
 Create a puzzle game with multiple puzzles:
  1. a number guess
  2. decide if one string is a permutation of the other
- 3. ...(still working on it)
  
 ************ Display **************
 >>>client: 
