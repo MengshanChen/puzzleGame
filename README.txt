@@ -1,5 +1,5 @@
 
-A multithreaded puzzle game (10/07/2018)
+A multithreaded puzzle game 
 
 Create a puzzle game with multiple puzzles:
  1. a number guess
